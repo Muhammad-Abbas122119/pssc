@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pssc/static/css/main.c5f0b342.css",
+    "main.js": "/pssc/static/js/main.9504cfc9.js",
+    "static/media/cat-feed.jpg": "/pssc/static/media/cat-feed.a65846f32759374f89d9.jpg",
+    "static/media/prof2.jpg": "/pssc/static/media/prof2.dabd046b5e0f23037f72.jpg",
+    "static/media/carousel_bg.jpg": "/pssc/static/media/carousel_bg.d5d5e153476127fef485.jpg",
+    "static/media/rabit.jpg": "/pssc/static/media/rabit.fb0f771b94c4e3e4798e.jpg",
+    "static/media/cat-ball.jpg": "/pssc/static/media/cat-ball.65bf22df732a43c1792e.jpg",
+    "static/media/testiImg1.jpg": "/pssc/static/media/testiImg1.16ff7d186cbb6bf24c7a.jpg",
+    "static/media/prof1.jpg": "/pssc/static/media/prof1.45c9def19951db073096.jpg",
+    "static/media/prof3.jpg": "/pssc/static/media/prof3.68a4d92cafe6ef2fc342.jpg",
+    "static/media/bird-feed.avif": "/pssc/static/media/bird-feed.660bdb6407ba0c8dbbef.avif",
+    "index.html": "/pssc/index.html",
+    "main.c5f0b342.css.map": "/pssc/static/css/main.c5f0b342.css.map",
+    "main.9504cfc9.js.map": "/pssc/static/js/main.9504cfc9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5f0b342.css",
+    "static/js/main.9504cfc9.js"
+  ]
+}
